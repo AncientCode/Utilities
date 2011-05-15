@@ -16,4 +16,4 @@ Scan all common service ports to detect all services that have been enabled on a
 
 svnupall.rb
 -----------
-Update all directories under a directory that contains .svn. Originally used to mass update all extension in SoftX Wiki[http://wwwsoftx.tk].
+Update all directories under a directory that contains .svn. Originally used to mass update all extension in [SoftX Wiki](http://www.softx.tk).
